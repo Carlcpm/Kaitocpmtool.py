@@ -1,7 +1,7 @@
 import requests
 import urllib.parse
 
-__ENDPOINT_URL__: str = https://kaitoapi.squareweb.app/api""
+__ENDPOINT_URL__: str = "https://Carlapi.squareweb.app/api"
 
 class Bubcyz:
     def __init__(self, access_key) -> None:
